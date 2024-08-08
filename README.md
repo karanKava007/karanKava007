@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankava007&label=Profile%20views&color=0e75b6&style=flat" alt="karankava007" /> </p>
 
-- 🔭 I’m currently working on **International Banking Application**
+- 🔭 I’m currently working on **Stock Tracler Application**
 
-- 🌱 I’m currently learning **GraphQl , SQL lite and Native-wind**
+- 🌱 I’m currently learning **Animations And Application Performance**
 
 - 👯 I’m looking to collaborate **With you...**
 
